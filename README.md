@@ -6,7 +6,7 @@ A personal portfolio website built using HTML and CSS.
 ## Live Website
 
 [Visit Portfolio]
-(YOUR-GITHUB-PAGES-LINK)
+(https://tanisha09light-ux.github.io/tanisha-portfolio-/)
 
 ## Technologies Used
 
